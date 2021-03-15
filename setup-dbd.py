@@ -12,6 +12,7 @@ downloads = {
         "dbd_requirements.txt": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/code/Python/requirements.txt",
         "dbd.py": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/code/Python/dbd.py",
         "definitions/SpellEffect.dbd": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellEffect.dbd",
+        "definitions/SpellCastTimes.dbd": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellCastTimes.dbd",
         }
 
 for file_name, url in downloads.items():
